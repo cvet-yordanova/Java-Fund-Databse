@@ -20,7 +20,7 @@ public abstract class BasicShampoo {
     @JoinColumn(name = "batch_id")
     private ProductionBatch productionBatch;
 
-    @ManyToMany
+    @ManyToMany(fetch = FetchType.EAGER)
     @JoinTable(name = "shampoos_ingredients",
     joinColumns = @JoinColumn(name = "shampoo_id"),
     inverseJoinColumns = @JoinColumn(name = "ingredient_id"),
