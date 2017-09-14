@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <first_name>Ssvilen</first_name>
+        <last_name>Georgiev</last_name>
+        <address>
+            <country>Bulgaria</country>
+            <city>Sofia</city>
+            <street>Mladost</street>
+        </address>
+    </person>
+    <person>
+        <first_name>Ssvilen</first_name>
+        <last_name>Georgiev</last_name>
+        <address>
+            <country>Bulgaria</country>
+            <city>Sofia</city>
+            <street>Mladost</street>
+        </address>
+    </person>
+</persons>

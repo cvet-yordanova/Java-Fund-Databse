@@ -1,22 +1,16 @@
 package app;
 
-import app.serrvice.impl.ShampoosServiceImpl;
+import app.model.*;
 import app.service.api.IngredientService;
 import app.service.api.ProductionBatchService;
 import app.service.api.ShampoosService;
-import app.model.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
-import java.sql.Date;
 import java.text.SimpleDateFormat;
-import java.time.Instant;
-import java.time.LocalDate;
-import java.util.Calendar;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 /**

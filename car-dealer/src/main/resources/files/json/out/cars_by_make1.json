@@ -1,0 +1,320 @@
+[
+  {
+    "id": 234,
+    "travelledDistance": 954775807,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 229,
+    "travelledDistance": 92275807,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 605,
+    "travelledDistance": 2143647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 373,
+    "travelledDistance": 2143647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 242,
+    "travelledDistance": 2143647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 607,
+    "travelledDistance": 214647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 610,
+    "travelledDistance": 214647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 375,
+    "travelledDistance": 214647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 378,
+    "travelledDistance": 214647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 244,
+    "travelledDistance": 214647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 247,
+    "travelledDistance": 214647,
+    "make": "Toyota",
+    "model": "Camry Hybrid"
+  },
+  {
+    "id": 226,
+    "travelledDistance": 9223854775807,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "id": 230,
+    "travelledDistance": 92235807,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "id": 232,
+    "travelledDistance": 9223807,
+    "make": "Toyota",
+    "model": "Corolla"
+  },
+  {
+    "id": 601,
+    "travelledDistance": 9223354775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 369,
+    "travelledDistance": 9223354775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 238,
+    "travelledDistance": 9223354775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 228,
+    "travelledDistance": 922337203685,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 599,
+    "travelledDistance": 92233775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 603,
+    "travelledDistance": 92233775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 367,
+    "travelledDistance": 92233775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 371,
+    "travelledDistance": 92233775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 236,
+    "travelledDistance": 92233775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 240,
+    "travelledDistance": 92233775807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 221,
+    "travelledDistance": 9223372037,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 606,
+    "travelledDistance": 922337807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 374,
+    "travelledDistance": 922337807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 243,
+    "travelledDistance": 922337807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 225,
+    "travelledDistance": 922337207,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 608,
+    "travelledDistance": 922335807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 376,
+    "travelledDistance": 922335807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 245,
+    "travelledDistance": 922335807,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 223,
+    "travelledDistance": 214747,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 231,
+    "travelledDistance": 21477,
+    "make": "Toyota",
+    "model": "Prius"
+  },
+  {
+    "id": 222,
+    "travelledDistance": 96854775807,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 224,
+    "travelledDistance": 94775807,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 609,
+    "travelledDistance": 21474647,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 377,
+    "travelledDistance": 21474647,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 246,
+    "travelledDistance": 21474647,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 233,
+    "travelledDistance": 9225807,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 604,
+    "travelledDistance": 2147,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 372,
+    "travelledDistance": 2147,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 241,
+    "travelledDistance": 2147,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 600,
+    "travelledDistance": 247,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 368,
+    "travelledDistance": 247,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 237,
+    "travelledDistance": 247,
+    "make": "Toyota",
+    "model": "Tacoma"
+  },
+  {
+    "id": 602,
+    "travelledDistance": 21477,
+    "make": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "id": 370,
+    "travelledDistance": 21477,
+    "make": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "id": 227,
+    "travelledDistance": 21477,
+    "make": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "id": 239,
+    "travelledDistance": 21477,
+    "make": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "id": 598,
+    "travelledDistance": 9207,
+    "make": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "id": 366,
+    "travelledDistance": 9207,
+    "make": "Toyota",
+    "model": "Yaris"
+  },
+  {
+    "id": 235,
+    "travelledDistance": 9207,
+    "make": "Toyota",
+    "model": "Yaris"
+  }
+]

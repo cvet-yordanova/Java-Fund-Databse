@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<photographers>
+    <photographer primary-camera="Nikon Nikon" name="Jared Polin">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Nikon Nikon" name="Yan Greenidge">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Pentax Pentax" name="Odis Borne">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Canon Canon" name="Turla Cowger">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Nikon Nikon" name="Bong Mungin">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Canon Canon" name="Alica Lacher">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Nikon Nikon" name="Joshua Nolley">
+        <lenses>
+            <lens>Nikon 45 2.0</lens>
+            <lens>Tokina 135 2.8</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Canon Canon" name="Jamie Mauger">
+        <lenses>
+            <lens>Tokina 15 2.0</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Fuji Fuji" name="Rosalba Hane">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Pentax Pentax" name="Lajuana Mcclean">
+        <lenses>
+            <lens>Pentax 200 4.0</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Pentax Pentax" name="Annabelle Nimmo">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Nikon Nikon" name="Jin Nevitt">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Nikon Nikon" name="Talitha Jong">
+        <lenses>
+            <lens>Nikon 40 2.8</lens>
+            <lens>Sigma 30 2.4</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Pentax Pentax" name="Allyson Gayman">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Nikon Nikon" name="Betsey Oconner">
+        <lenses>
+            <lens>Nikon 26 4.0</lens>
+            <lens>Tokina 135 2.8</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Canon Canon" name="Tashia Lunsford">
+        <lenses>
+            <lens>Canon 15 4.0</lens>
+            <lens>Canon 125 1.4</lens>
+            <lens>Sigma 40 4.0</lens>
+            <lens>Sigma 70 4.0</lens>
+            <lens>Tokina 14 2.0</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Nikon Nikon" name="Johnathan Vazguez">
+        <lenses>
+            <lens>Nikon 28 4.0</lens>
+            <lens>Sigma 15 2.4</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Fuji Fuji" name="Luciano Brisker">
+        <lenses/>
+    </photographer>
+    <photographer primary-camera="Fuji Fuji" name="Cristopher Brinkerhoff">
+        <lenses>
+            <lens>Tokina 200 2.8</lens>
+            <lens>Tamron 24 1.8</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Nikon Nikon" name="Keely Futrell">
+        <lenses>
+            <lens>Nikon 35 2.0</lens>
+            <lens>Nikon 600 5.6</lens>
+            <lens>Sigma 18 4.0</lens>
+            <lens>Tokina 135 2.8</lens>
+        </lenses>
+    </photographer>
+    <photographer primary-camera="Pentax Pentax" name="Shannon Clendenin">
+        <lenses>
+            <lens>Pentax 400 4.0</lens>
+            <lens>Pentax 200 2.8</lens>
+        </lenses>
+    </photographer>
+</photographers>

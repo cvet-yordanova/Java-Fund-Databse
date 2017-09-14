@@ -3,9 +3,9 @@ package app.serrvice.impl;
 import app.dao.api.ChemicalIngredietsDao;
 import app.dao.api.IngredientsDao;
 import app.model.BasicChemicatIngredient;
+import app.model.BasicIngredient;
 import app.model.BasicShampoos;
 import app.service.api.IngredientService;
-import app.model.BasicIngredient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -2,10 +2,9 @@ package app.serrvice.impl;
 
 import app.dao.api.ClassicLabelDao;
 import app.dao.api.ShampoosDao;
-import app.model.BasicIngredient;
+import app.model.BasicShampoos;
 import app.model.ClassicLabel;
 import app.service.api.ShampoosService;
-import app.model.BasicShampoos;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

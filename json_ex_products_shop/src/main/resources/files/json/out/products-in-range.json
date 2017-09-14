@@ -1,0 +1,58 @@
+[
+  {
+    "name": "H-Rosacea Formula",
+    "price": 99.74,
+    "seller": {
+      "fullName": "Betty Lawson"
+    }
+  },
+  {
+    "name": "Albuterol",
+    "price": 108.95,
+    "seller": {
+      "fullName": "Bennett"
+    }
+  },
+  {
+    "name": "Metformin Hydrochloride",
+    "price": 953.99,
+    "seller": {
+      "fullName": "Benjamin Henry"
+    }
+  },
+  {
+    "name": "NEO-POLY-BAC HYDRO",
+    "price": 967.32,
+    "seller": {
+      "fullName": "Nicole Martinez"
+    }
+  },
+  {
+    "name": "NEO-POLY-BAC HYDRO",
+    "price": 967.32,
+    "seller": {
+      "fullName": "Marie Williamson"
+    }
+  },
+  {
+    "name": "LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15",
+    "price": 1069.43,
+    "seller": {
+      "fullName": "Moreno"
+    }
+  },
+  {
+    "name": "Wintergreen Isopropyl Alcohol",
+    "price": 1397.57,
+    "seller": {
+      "fullName": "Chris Mitchell"
+    }
+  },
+  {
+    "name": "Etoposide",
+    "price": 1483.96,
+    "seller": {
+      "fullName": "Sarah Day"
+    }
+  }
+]

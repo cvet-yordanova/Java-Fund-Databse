@@ -1,7 +1,6 @@
 package app.service.api;
 
 import app.model.BasicChemicatIngredient;
-import app.model.BasicIngredient;
 import app.model.BasicShampoos;
 
 import java.util.List;

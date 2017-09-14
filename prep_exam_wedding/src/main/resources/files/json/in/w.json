@@ -1,0 +1,70 @@
+[
+  {
+    "Bride": "Demetria G Whitney",
+    "Bridegroom": "Elidia Q Dotts",
+    "Date": "2016-07-09T00:00:00",
+    "Agency": "The Manor House",
+    "Guests": [
+      {
+        "Name": "Lynetta W Collie",
+        "RSVP": false,
+        "Family": "Bridegroom"
+      },
+      {
+        "Name": "Katelynn N Neloms",
+        "RSVP": true,
+        "Family": "Bride"
+      }
+    ]
+  },
+  {
+    "Bride": "Nikia T Sepulveda",
+    "Date": "2020-02-04T00:00:00",
+    "Agency": "Monrreal & Company",
+    "Guests": [
+      {
+        "Name": "Ellent I Revard",
+        "RSVP": false,
+        "Family": "Bride"
+      },
+      {
+        "Name": "Gay O Ferdinand",
+        "RSVP": false,
+        "Family": "Bride"
+      },
+      {
+        "Name": "Lucius R Prokop",
+        "RSVP": false,
+        "Family": "Bridegroom"
+      },
+      {
+        "Name": "Gay O Ferdinand",
+        "RSVP": true,
+        "Family": "Bride"
+      }
+    ]
+  },
+  {
+    "Bride": "Nancy Q Rodreguez",
+    "Bridegroom": "Wade V Mcinnis",
+    "Date": "2020-08-01T00:00:00",
+    "Agency": "Everything Entertainment",
+    "Guests": [
+      {
+        "Name": "Angelina H Daly",
+        "RSVP": false,
+        "Family": "Bridegroom"
+      },
+      {
+        "Name": "Karan H Kenobi",
+        "RSVP": false,
+        "Family": "Bride"
+      },
+      {
+        "Name": "Bettie P Arrowsmith",
+        "RSVP": true,
+        "Family": "Bridegroom"
+      }
+    ]
+  }
+]

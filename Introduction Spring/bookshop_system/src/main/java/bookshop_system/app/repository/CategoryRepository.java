@@ -1,0 +1,8 @@
+package bookshop_system.app.repository;
+
+
+import bookshop_system.app.entities.Category;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CategoryRepository extends JpaRepository<Category,Long>{
+}

@@ -1,6 +1,5 @@
 package app.dao.api;
 
-import app.model.BasicShampoos;
 import app.model.ProductionBatch;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
